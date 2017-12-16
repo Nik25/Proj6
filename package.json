@@ -1,0 +1,15 @@
+{
+  "name": "nkproj6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nkproj6",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^3.11.5",
+    "scrape-it": "^4.1.0"
+  }
+}
